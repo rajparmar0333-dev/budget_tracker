@@ -1,0 +1,19 @@
+# Compiled binary
+a.out
+*.exe
+*.out
+
+# Object files
+*.o
+
+# Build directories
+/build/
+/bin/
+/Debug/
+/Release/
+
+# OS and editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
