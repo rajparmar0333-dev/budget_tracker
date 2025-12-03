@@ -6,7 +6,7 @@ The project is designed as a practice exercise in procedural C programming, inpu
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Add daily expenses (food, travel, personal, etc.)
 - Set monthly or weekly limits
@@ -15,11 +15,10 @@ The project is designed as a practice exercise in procedural C programming, inpu
 - Generate a summary report at the end
 - Menu-driven CLI interface
 
-*(Note: Features may vary depending on how much you have implemented. Update this list as needed.)*
 
 ---
 
-## 🛠 How to Compile
+##  How to Compile
 
 Make sure you have GCC installed.
 
